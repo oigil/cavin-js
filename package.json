@@ -1,0 +1,25 @@
+{
+  "name": "cavin-js",
+  "version": "0.0.1",
+  "description": "Cavin.js of daumkakao corp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:oigil/cavin-js.git"
+  },
+  "keywords": [
+    "cavin",
+    "cavinjs",
+    "cavin-js"
+  ],
+  "author": "oigil.jo@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oigil/cavin-js/issues"
+  },
+  "homepage": "https://github.com/oigil/cavin-js"
+}
